@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "fiat-uno",
+    "marca": "Fiat",
+    "modelo": "Uno",
+    "ano": null,
+    "categoria": null,
+    "transmissao": null,
+    "lugares": null,
+    "diaria": null,
+    "condicoes": null,
+    "ativo": true
+  },
+  {
+    "slug": "volkswagen-voyage",
+    "marca": "Volkswagen",
+    "modelo": "Voyage",
+    "ano": null,
+    "categoria": null,
+    "transmissao": null,
+    "lugares": null,
+    "diaria": null,
+    "condicoes": null,
+    "ativo": true
+  },
+  {
+    "slug": "fiat-mobi",
+    "marca": "Fiat",
+    "modelo": "Mobi",
+    "ano": null,
+    "categoria": null,
+    "transmissao": null,
+    "lugares": null,
+    "diaria": null,
+    "condicoes": null,
+    "ativo": true
+  },
+  {
+    "slug": "toyota-etios",
+    "marca": "Toyota",
+    "modelo": "Etios",
+    "ano": null,
+    "categoria": null,
+    "transmissao": null,
+    "lugares": null,
+    "diaria": null,
+    "condicoes": null,
+    "ativo": true
+  },
+  {
+    "slug": "volkswagen-gol",
+    "marca": "Volkswagen",
+    "modelo": "Gol",
+    "ano": null,
+    "categoria": null,
+    "transmissao": null,
+    "lugares": null,
+    "diaria": null,
+    "condicoes": null,
+    "ativo": true
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "name": "fort-locadora",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site estático da FORT Locadora de Veículos (Belo Horizonte - MG)",
+  "scripts": {
+    "build": "node build.js",
+    "check": "node scripts/check.js",
+    "dev": "node build.js && node scripts/serve.js",
+    "test": "node build.js && node scripts/check.js"
+  },
+  "dependencies": {
+    "@fontsource-variable/inter": "^5.0.0"
+  },
+  "optionalDependencies": {
+    "sharp": "^0.33.0"
+  }
+}

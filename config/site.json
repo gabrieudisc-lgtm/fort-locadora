@@ -1,0 +1,21 @@
+{
+  "nome": "FORT Locadora de Veículos",
+  "marca": "FORT",
+  "subtitulo": "Locadora de Veículos",
+  "cidade": "Belo Horizonte",
+  "estado": "Minas Gerais",
+  "uf": "MG",
+  "whatsapp": "5531986742998",
+  "telefoneExibicao": "(31) 98674-2998",
+  "telefoneE164": "+55 31 98674-2998",
+  "mensagemGeral": "Olá! Acessei o site da FORT Locadora de Veículos e gostaria de mais informações sobre a locação.",
+  "siteUrl": "",
+  "instagram": "",
+  "googleAnalyticsId": "",
+  "endereco": {
+    "logradouro": "",
+    "bairro": "",
+    "cep": ""
+  },
+  "diferenciais": []
+}
